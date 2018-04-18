@@ -1,0 +1,5 @@
+[
+    { "caption": "-", "id": "quickx_start" },
+    { "command": "quickx_goto_definition", "caption": "Goto Definition" },
+    { "caption": "-", "id": "quickx_end" }
+]
